@@ -1,6 +1,6 @@
 # GrimmAI
 
-Just give your prompt, and you'll get a fun story—complete with feedback from the Grimm Brothers, story genre classification, and moral lesson summaries. You can  create your own fantasy world with unique rules and characters for personalized adventures! All stories are saved automatically so you can collect your favorites.
+Just give your prompt, and you'll get a fun story complete with feedback from the Grimm Brothers, story genre classification, and moral lesson summaries. You can  create your own fantasy world with unique rules and characters for personalized adventures! All stories are saved automatically so you can collect your favorites.
 
 I tried to make it as fun as possible :3
 
